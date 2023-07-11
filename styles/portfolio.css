@@ -136,4 +136,14 @@ main {
 
 .about-info {
     text-align: center;
+    color: #757575;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+/* what I do related styles */
+
+#what-section-description {
+    padding: 30px 150px;
 }
