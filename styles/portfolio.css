@@ -147,3 +147,12 @@ main {
 #what-section-description {
     padding: 30px 150px;
 }
+
+.skill-container {
+    display: flex;
+}
+
+.skill-set {
+    padding: 30px;
+    gap: 24px;
+}
